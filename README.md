@@ -1,5 +1,7 @@
 # :student: Professional Training &amp; Certificates
 
+List of completed courses and certificates
+
 * Microsoft Certified Data Analyst Associate
 * Microsoft Certified Azure Fundamentals
 * Microsoft Certified Azure AI Fundamentals
@@ -62,7 +64,6 @@
 * Getting Started with TensorFlow 2 (Imperial College London)
 * Storytelling and Influencing (Macquarie University)
 * Python and Machine Learning for Asset Management (EDHEC Business School)
-* Coursera FSWC54X3RXER
 * End-to-End ML with TensorFlow on GCP (Google)
 * Organizational Behavior (Macquarie University)
 * Introduction to Trading, ML and GCP (New York Institute of Finance)
