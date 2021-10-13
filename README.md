@@ -1,6 +1,6 @@
 # :student: Professional Training &amp; Certificates
 
-List of completed courses and certificates
+List of completed courses and certificates:
 
 * Microsoft Certified Data Analyst Associate
 * Microsoft Certified Azure Fundamentals
