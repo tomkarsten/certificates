@@ -2,12 +2,13 @@
 
 List of completed courses and certificates:
 
+* AWS Certified Data Analytics - Specialty
+* AWS Certified Machine Learning - Specialty
+* AWS Certified Solutions Architect - Associate
+* AWS Certified Cloud Practitioner
 * Microsoft Certified Data Analyst Associate
 * Microsoft Certified Azure Fundamentals
 * Microsoft Certified Azure AI Fundamentals
-* AWS Certified Cloud Practitioner
-* AWS Certified Solutions Architect - Associate
-* AWS Certified Machine Learning - Specialty
 * Machine Learning (Stanford Online)
 * Financial Markets (Yale University)
 * Foundations for Big Data Analysis with SQL (Cloudera)
