@@ -2,8 +2,11 @@
 
 List of completed courses and certificates:
 
+* AWS Certified Solutions Architect - Professional
+* AWS Certified Security - Specialty
 * AWS Certified Data Analytics - Specialty
 * AWS Certified Machine Learning - Specialty
+* AWS Certified Developer - Associate
 * AWS Certified Solutions Architect - Associate
 * AWS Certified Cloud Practitioner
 * Microsoft Certified Data Analyst Associate
