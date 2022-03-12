@@ -9,9 +9,9 @@ List of completed courses and certificates:
 * [AWS Certified Developer - Associate](certificates/AWS%20Certified%20Developer%20-%20Associate%20certificate.pdf)
 * [AWS Certified Solutions Architect - Associate](certificates/AWS%20Certified%20Solutions%20Architect%20-%20Associate%20certificate.pdf)
 * [AWS Certified Cloud Practitioner](certificates/AWS%20Certified%20Cloud%20Practitioner%20certificate.pdf)
-* Microsoft Certified Data Analyst Associate]
-* Microsoft Certified Azure Fundamentals
-* Microsoft Certified Azure AI Fundamentals
+* [Microsoft Certified Data Analyst Associate](certificates/Microsoft%20Certified%20Data%20Analyst%20Associate.pdf)
+* [Microsoft Certified Azure Fundamentals](certificates/Microsoft%20Azure%20Fundamentals%20AZ-900%20Exam%20Prep%20(Microsoft).pdf)
+* [Microsoft Certified Azure AI Fundamentals](certificates/Microsoft%20Azure%20AI%20Fundamentals%20AI-900%20Exam%20Pre%20(Microsoft).pdf)
 * Machine Learning (Stanford Online)
 * Financial Markets (Yale University)
 * Foundations for Big Data Analysis with SQL (Cloudera)
