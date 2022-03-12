@@ -2,14 +2,14 @@
 
 List of completed courses and certificates:
 
-* AWS Certified Solutions Architect - Professional
-* AWS Certified Security - Specialty
-* AWS Certified Data Analytics - Specialty
-* AWS Certified Machine Learning - Specialty
-* AWS Certified Developer - Associate
-* AWS Certified Solutions Architect - Associate
-* AWS Certified Cloud Practitioner
-* Microsoft Certified Data Analyst Associate
+* [AWS Certified Solutions Architect - Professional](certificates/AWS%20Certified%20Solutions%20Architect%20-%20Professional%20certificate.pdf)
+* [AWS Certified Security - Specialty](certificates/AWS%20Certified%20Security%20-%20Specialty%20certificate.pdf)
+* [AWS Certified Data Analytics - Specialty](certificates/AWS%20Certified%20Data%20Analytics%20-%20Specialty%20certificate.pdf)
+* [AWS Certified Machine Learning - Specialty](certificates/AWS%20Certified%20Machine%20Learning%20-%20Specialty%20certificate.pdf)
+* [AWS Certified Developer - Associate](certificates/AWS%20Certified%20Developer%20-%20Associate%20certificate.pdf)
+* [AWS Certified Solutions Architect - Associate](certificates/AWS%20Certified%20Solutions%20Architect%20-%20Associate%20certificate.pdf)
+* [AWS Certified Cloud Practitioner](certificates/AWS%20Certified%20Cloud%20Practitioner%20certificate.pdf)
+* Microsoft Certified Data Analyst Associate]
 * Microsoft Certified Azure Fundamentals
 * Microsoft Certified Azure AI Fundamentals
 * Machine Learning (Stanford Online)
