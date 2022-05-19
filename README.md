@@ -2,6 +2,10 @@
 
 List of completed courses and certificates:
 
+* [Microsoft Certified Azure Administrator Associate](certificates/Microsoft%20Certified%20Azure%20Administrator%20Associate.pdf)
+* [Microsoft Certified Power BI Data Analyst Associate](certificates/Microsoft%20Certified%20Power%20BI%20Data%20Analyst%20Associate.pdf)
+* [Microsoft Certified Azure Fundamentals](certificates/Microsoft%20Certified%20Azure%20Fundamentals.pdf)
+* [Microsoft Certified Azure AI Fundamentals](certificates/Microsoft%20Certified%20Azure%20AI%20Fundamentals.pdf)
 * [AWS Certified Solutions Architect - Professional](certificates/AWS%20Certified%20Solutions%20Architect%20-%20Professional%20certificate.pdf)
 * [AWS Certified Security - Specialty](certificates/AWS%20Certified%20Security%20-%20Specialty%20certificate.pdf)
 * [AWS Certified Data Analytics - Specialty](certificates/AWS%20Certified%20Data%20Analytics%20-%20Specialty%20certificate.pdf)
@@ -9,9 +13,6 @@ List of completed courses and certificates:
 * [AWS Certified Developer - Associate](certificates/AWS%20Certified%20Developer%20-%20Associate%20certificate.pdf)
 * [AWS Certified Solutions Architect - Associate](certificates/AWS%20Certified%20Solutions%20Architect%20-%20Associate%20certificate.pdf)
 * [AWS Certified Cloud Practitioner](certificates/AWS%20Certified%20Cloud%20Practitioner%20certificate.pdf)
-* [Microsoft Certified Data Analyst Associate](certificates/Microsoft%20Certified%20Data%20Analyst%20Associate.pdf)
-* [Microsoft Certified Azure Fundamentals](certificates/Microsoft%20Certified%20Azure%20Fundamentals.pdf)
-* [Microsoft Certified Azure AI Fundamentals](certificates/Microsoft%20Certified%20Azure%20AI%20Fundamentals.pdf)
 * Machine Learning (Stanford Online)
 * Financial Markets (Yale University)
 * Foundations for Big Data Analysis with SQL (Cloudera)
