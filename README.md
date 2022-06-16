@@ -5,6 +5,7 @@ List of completed courses and certificates:
 * [Microsoft Certified Azure Solutions Architect Expert](certificates/Microsoft%20Certified%20Azure%20Solutions%20Architect%20Expert.pdf)
 * [Microsoft Certified Azure Administrator Associate](certificates/Microsoft%20Certified%20Azure%20Administrator%20Associate.pdf)
 * [Microsoft Certified Azure Security Engineer Associate](certificates/Microsoft%20Certified%20Azure%20Security%20Engineer%20Associate.pdf)
+* [Microsoft Certified Azure Data Engineer Associate](certificates/Microsoft%20Certified%20Azure%20Data%20Engineer%20Associate.pdf)
 * [Microsoft Certified Azure Data Scientist Associate](certificates/Microsoft%20Certified%20Azure%20Data%20Scientist%20Associate.pdf)
 * [Microsoft Certified Power BI Data Analyst Associate](certificates/Microsoft%20Certified%20Power%20BI%20Data%20Analyst%20Associate.pdf)
 * [Microsoft Certified Azure Fundamentals](certificates/Microsoft%20Certified%20Azure%20Fundamentals.pdf)
